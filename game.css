@@ -1,0 +1,86 @@
+body
+{
+    background:burlywood;
+	text-align:center;
+}
+
+	.login_div1 , .login_div2
+	{
+        background:linear-gradient(#87a6ea 0%, #98ea87 100%);
+		padding: 12px;
+		float: none;
+		border-radius: 50px;
+        text-shadow: #449baa;
+        
+        border-top: 2px solid #AA4465;
+        border-bottom: 10px solid #AA4465;
+        opacity:0.83;
+        
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 30px;
+    text-shadow: #87a6ea;
+}
+#word
+{
+	width: 70%;
+}
+#word_display
+{
+	letter-spacing: 6px;
+}
+#output
+{
+
+border-radius: 45px;
+border-top: 2px dotted #449baa;
+padding: 10px;
+float: none;
+text-align: left;
+background:linear-gradient(#87a6ea 20%, #98ea87 70%);
+}
+
+.header
+{
+	color: white;
+    font-family: 'Yeon Sung';
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 80px;
+    font-weight: bold;
+}
+
+
+.profile{
+    width: 200px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+    margin-top: 10px;
+    
+}
+
+.body_background{
+    background:linear-gradient(#87a6ea 20%, #98ea87 70%);
+}
+
+.line{
+    height: 6px;
+    width: 80px;
+    background-color: #000;
+    margin: 8px auto;
+}
+
+#logout
+{
+	font-size: 20px;
+     float: left;
+}
+
+.body_background1 {
+
+    background:linear-gradient(#bc87ea 20%, #98ea87 70%);
+}
